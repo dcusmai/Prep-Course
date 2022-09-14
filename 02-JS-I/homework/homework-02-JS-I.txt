@@ -1,0 +1,6 @@
+// En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+// Variable: Es un dato que queremos guardar para usar después y poder encontrarlo, para eso le asignamos un nombre.
+// Strings: Es un tipo de variable formada por texto y lo tenemos que escribir entre comillas.
+// Funciones (argumentos, return): Las funciones son un tipo de objeto invocable (tienen un nombre). Sirven para combinar las variables en operaciones (por ej sumar, dividir, etc.). Argumentos: son los valores que le damos a las variables de la función para que se ejecute. Return: es una operación para que la función devuelva algo (un valor).
+// Declaraciones: Sirven para definir variables o funciones. If: sirve para ejecutar una parte del código, siempre que cumpla con una condición que establecemos.
+// Valores Booleanos: Son datos que solo pueden tomar dos valores. En el caso de JS solo pueden ser Verdadero o Falso. True: La variable es Verdadera. False: La variable es Falsa.
