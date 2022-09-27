@@ -244,7 +244,9 @@ function continueStatement(numero) {
   //Pista: usá el statement 'continue'
   // Tu código:
   var array = [];
-  for( var i = 0; i < 9; i++ ) {
+  var i = 0
+  while( i < 9 ) {
+    i++
     numero = numero + 2;
     array.push( numero );
     if( i === 5 ) continue;
