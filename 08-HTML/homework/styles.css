@@ -1,0 +1,17 @@
+#spanId {
+    margin: 50px;
+    font-size: 18px;
+    text-align: center;
+}
+#thirdDiv {
+    padding: 50px; 
+    border: 5px solid grey;
+    width: 500px; 
+    height: 600px; 
+    background-color: lightgrey;
+    text-align: center;
+    align-items: center;
+}
+#divClass {
+    text-align: center;
+}
